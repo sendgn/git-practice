@@ -1,0 +1,15 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# all files with .pyc .pyo .pyd extensions
+*.py[cod]
+
+# file
+docker-compose.yaml
+
+# directory
+log/
+
+# file in a directory
+resources/products.json
